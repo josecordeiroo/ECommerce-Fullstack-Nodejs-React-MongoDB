@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# Ecommerce just to practice
 
 ![amazona](/frontend/public/images/amazona.jpg)
 
